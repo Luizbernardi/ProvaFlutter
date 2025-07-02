@@ -117,7 +117,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 
                 // Logo/Title
                 Text(
-                  'Flutt AV 1',
+                  'Rede Social',
                   style: Theme.of(context).textTheme.headlineLarge?.copyWith(
                     fontWeight: FontWeight.bold,
                     color: Theme.of(context).colorScheme.primary,
